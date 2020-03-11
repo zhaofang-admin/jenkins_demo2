@@ -32,4 +32,4 @@ mybatis:
   mapper-locations: classpath:mybatis/mapper/*.xml
   type-aliases-package: com.dk.pojo
 server:
-  port: 8000
+  port: 8099
