@@ -5,8 +5,8 @@ spring:
   #    数据源
   datasource:
     username: root
-    password: 1234
-    url: jdbc:mysql://127.0.0.1/doucker
+    password: "@Zf123456789"
+    url: jdbc:mysql://192.168.160.123/jenkins
     driver-class-name: com.mysql.jdbc.Driver
     #    druid数据库连接池
     type: com.alibaba.druid.pool.DruidDataSource
